@@ -1,1 +1,1 @@
-# Classifier-Guided-Sampling-Algorithm-for-Design-Optimization
+# Classifier-Guided_Sampling_Algorithm_for_Design_Optimization
